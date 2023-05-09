@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/COMP3000-Project-front-end-code-master.iml" filepath="$PROJECT_DIR$/.idea/COMP3000-Project-front-end-code-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../COMP3000-Project-front-end-code-master/.idea/COMP3000-Project-front-end-code-master.iml" filepath="$PROJECT_DIR$/../COMP3000-Project-front-end-code-master/.idea/COMP3000-Project-front-end-code-master.iml" />
     </modules>
   </component>
 </project>
