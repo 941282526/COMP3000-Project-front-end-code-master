@@ -1,5 +1,5 @@
 module.exports = {
-  // publicPath: '/jingdong',
+  // publicPath: '/',
   devServer: {
     open: true,
     hot: true,
